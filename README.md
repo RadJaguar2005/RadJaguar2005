@@ -1,6 +1,2 @@
-<a href="https://github.com/RadJaguar2005/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RadJaguar2005&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/RadJaguar2005/RadJaguar2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RadJaguar2005&repo=convoychat" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadJaguar2005&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RadJaguar2005&langs_count=8)](https://github.com/RadJaguar2005/github-readme-stats)
