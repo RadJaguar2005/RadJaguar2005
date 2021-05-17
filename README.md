@@ -1,4 +1,5 @@
-**Discord: Joel ♛#5524** <br/>
+**Discord: Joel ♛#5524** 
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RadJaguar2005&show_icons=true&theme=radical)
